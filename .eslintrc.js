@@ -4,6 +4,9 @@ module.exports = {
     'import',
     'react',
   ],
+  'globals': {
+    'fetch': true,
+  },
   'rules': {
     'react/jsx-uses-vars': 2,
     'react/jsx-indent': [2, 2],
