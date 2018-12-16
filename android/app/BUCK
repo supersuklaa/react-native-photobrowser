@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.awesomeproject",
+    package = "com.photobrowser",
 )
 
 android_resource(
     name = "res",
-    package = "com.awesomeproject",
+    package = "com.photobrowser",
     res = "src/main/res",
 )
 

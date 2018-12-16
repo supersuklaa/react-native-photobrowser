@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.photobrowser;
 
 import android.app.Application;
 
