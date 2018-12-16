@@ -1,6 +1,8 @@
 # react-native-photobrowser
 
-Very basic photobrowser, created mainly as a Reack Native exercise.
+Very basic photobrowser, created mainly as a React Native exercise.
+
+![demo.gif](https://raw.githubusercontent.com/supersuklaa/react-native-photobrowser/master/demo.gif)
 
 ## Toolkit
 
